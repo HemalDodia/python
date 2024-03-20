@@ -1,0 +1,6 @@
+i=int(input("i=="))
+while(i<=10):
+    if(i==6):
+     continue
+    i=i+1
+    print(i)
